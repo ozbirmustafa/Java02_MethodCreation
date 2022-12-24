@@ -25,7 +25,7 @@ public class MemoryKullanimi {
 
     /*
     class oluşturma ==> variable  ==> object
-                        method
+                         method
 
      */
 
